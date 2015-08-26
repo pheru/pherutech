@@ -1,7 +1,7 @@
-package de.eru.pherutech;
+package de.pheru.util.logitech;
 
-import de.eru.pherutech.exceptions.NoKeyboardConnectedException;
-import de.eru.pherutech.exceptions.PixelsOutOfLcdSizeException;
+import de.pheru.util.logitech.exceptions.NoKeyboardConnectedException;
+import de.pheru.util.logitech.exceptions.PixelsOutOfLcdSizeException;
 
 /**
  *

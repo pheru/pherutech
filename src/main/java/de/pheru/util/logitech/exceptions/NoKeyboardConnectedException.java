@@ -1,4 +1,4 @@
-package de.eru.pherutech.exceptions;
+package de.pheru.util.logitech.exceptions;
 
 /**
  *
